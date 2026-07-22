@@ -1,0 +1,2 @@
+# clock
+set timeout clock
